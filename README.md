@@ -6,7 +6,7 @@ This is a simple object tracking application using OpenCV.
 
 The application allows you to track an object in real-time using your webcam. It utilizes the CSRT tracker algorithm provided by OpenCV. The tracked object is visualized by drawing a bounding box around it in each frame.
 
-[![How it works]()](https://github.com/Mohshaikh23/Object-Tracker/raw/main/Application%20check.avi)
+https://github.com/Mohshaikh23/Object-Tracker/assets/93477768/d5a3d791-0718-40d5-8a8c-ba61f0ff40e3
 
 ## Features
 
